@@ -11,6 +11,12 @@ const accounts = [
     username: "agustacandi",
     url: "https://github.com/agustacandi",
   },
+  {
+    name: "Alif Triadi",
+    avatar: "https://avatars.githubusercontent.com/u/27538077?v=4",
+    username: "aliftrd",
+    url: "https://github.com/aliftrd",
+  },
 ];
 
 export default accounts;
